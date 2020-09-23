@@ -1,0 +1,1 @@
+This is a new file called bar. Hopefully this is going to work! Otherwise, I will go crazy
